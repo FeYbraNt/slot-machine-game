@@ -22,16 +22,13 @@ body {
 .motion {
     /*background:url("images/reel_blur.png") repeat-y; Taken from http://www.swish-designs.co.uk*/
 }
-button {
+button#control {
+    background:url("../img/button.png") no-repeat;
     display:block;
-    width:138px;
-    height:33px;
+    width: 98px;
+    height: 98px;
     margin:20px auto;
-    font-size:16px;
-    color: #fff;
-    background-color: #457f86;
-    border: 2px solid #fff;
-    border-radius: 2px;
+    border: 0px;
     cursor:pointer;
 }
 .slot-footer {
