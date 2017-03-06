@@ -12,3 +12,9 @@ Install required dependencies
 ```
 npm install
 ```
+
+Execute on **localhost:3000**
+
+```
+npm start
+```

@@ -4,13 +4,17 @@
   "description": "Slot machine game developed in Javascript",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "slotmachine",
     "game"
   ],
-  "author": "Rafael Lopez Dorado",
+  "author": {
+    "name": "Rafael Lopez Dorado",
+    "email": "rldorado86@gmail.com"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
